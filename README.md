@@ -155,3 +155,11 @@ O **TatuTodo** é um sistema de gerenciamento de tarefas projetado para ajudar e
 17. **Convite para Equipe (Admin):**  
     - *Como administrador*, quero convidar pessoas para meu grupo por e-mail, para colaborar em nossos projetos.  
     - *Como administrador*, quero que se o convidado não tiver uma conta, ele receba um link para finalizar o cadastro.
+    - 
+
+---
+
+## Stack
+**Front: Next**
+**Back: .Net**
+**Banco: SQL**
