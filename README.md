@@ -1,4 +1,4 @@
-# TatuTodo - Gerenciamento de Tarefas
+# CortexAPI - Gerenciamento de Tarefas
 
 ### Grupo de Desenvolvimento
 - Gustavo J. Rosa
@@ -10,7 +10,7 @@
 
 ## Descrição
 
-O **TatuTodo** é um sistema de gerenciamento de tarefas projetado para ajudar equipes a organizar, priorizar e acompanhar tarefas dentro de projetos. A aplicação suporta hierarquias complexas de subtarefas, atualizações em tempo real e personalização da visualização de tarefas em formato Kanban.
+O **CortexAPI** é um sistema de gerenciamento de tarefas projetado para ajudar equipes a organizar, priorizar e acompanhar tarefas dentro de projetos. A aplicação suporta hierarquias complexas de subtarefas, atualizações em tempo real e personalização da visualização de tarefas em formato Kanban.
 
 ---
 
